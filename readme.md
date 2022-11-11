@@ -1,8 +1,6 @@
 # Gustavo Bruno de Paula
-
-![20221028_144650_b.jpg](readme/20221028_144650_b.jpg)
-
-> Sou graduado em Ciências Sociais pela UFMG, onde também concluí meu mestrado e doutorado em Educação. Atualmente sou professor contratado no Departamento de Educação, Informação e Comunicação da FFCLRP/USP e também ****Pós-Doutorando no PPGSA/UFRJ. 
+>
+> Sou graduado em Ciências Sociais pela UFMG, onde também concluí meu mestrado e doutorado em Educação. Atualmente sou professor contratado no Departamento de Educação, Informação e> Comunicação da FFCLRP/USP e também ****Pós-Doutorando no PPGSA/UFRJ. 
 
 Minhas pesquisas se situam principalmente no campo da Sociologia da Educação, concentrando-me sobre como diferentes dimensões das desigualdades sociais repercutem em desigualdades escolares. Atualmente pesquiso sobre as desigualdades de acesso e evasão no ensino superior brasileiro.
 
